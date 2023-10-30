@@ -1,4 +1,4 @@
 ## 團隊成員
 
--culuhs
--Befun
+- culuhs
+- Befun
